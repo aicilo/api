@@ -1,0 +1,22 @@
+[
+  {
+    id: 1,
+    first_name: "Jayson",
+    last_name: "Olicia",
+    address: {
+      street: "Kayumanggi",
+      city: "Lipa City",
+      province: "Batangas",
+    }
+  },
+  {
+    id: 2,
+    first_name: "Lynette",
+    last_name: "Pastorfide",
+    address: {
+      street: "Unknown",
+      city: "San Juan",
+      province: "Batangas",
+    }
+  },
+]
